@@ -23,3 +23,7 @@ money = 2000
 print(money)
 money = money + 5000
 print(money)
+
+
+my_name = "にんじゃ"
+print("私は" + my_name + "です")
