@@ -33,3 +33,11 @@ age = 24
 print("私は" + str(age) + "歳です")
 count = "5"
 print(int(count) + 1)
+
+
+x = 7 * 10
+y = 5 * 6
+if (x == 70):
+  print("xは70です")
+if (y != 40):
+  print("yは40ではありません")
