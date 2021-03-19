@@ -51,3 +51,5 @@ money = 500
 apple_price = 200
 if money >= apple_price:
   print("りんごを買うことができます")
+else: # lesson12
+  print("お金が足りません") # lesson12
