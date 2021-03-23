@@ -15,3 +15,9 @@ print(fruits[0])
 fruits = ["apple", "banana", "orange"]
 for fruit in fruits:
   print("好きな果物は" + fruit + "です")
+
+
+#lesson2-5
+fruits = {"apple": "りんご", "banana": "バナナ"}
+print(fruits["banana"])
+print("appleは" + fruits["apple"] + "という意味です")
