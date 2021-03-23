@@ -9,3 +9,9 @@ fruits.append("grape")
 print(fruits)
 fruits[0] = "cherry"
 print(fruits[0])
+
+
+#lesson2-4
+fruits = ["apple", "banana", "orange"]
+for fruit in fruits:
+  print("好きな果物は" + fruit + "です")
