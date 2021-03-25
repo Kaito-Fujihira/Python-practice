@@ -34,3 +34,10 @@ print(fruits)
 fruits = {"apple": "りんご", "banana": "バナナ", "grape": "ぶどう"}
 for fruit_key in fruits:
   print(fruit_key + "は" + fruits[fruit_key] + "という意味です")
+
+
+#lesson2-8
+x = 10
+while x > 0:
+  print(x)
+  x -= 1
