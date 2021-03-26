@@ -41,3 +41,13 @@ x = 10
 while x > 0:
   print(x)
   x -= 1
+
+
+#lesson2-9
+numbers = [765, 921, 777, 256]
+for number in numbers:
+  print(number)
+  if number == 777:
+    print("777が見つかったので処理を終了します")
+    break
+  
