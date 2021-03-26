@@ -50,4 +50,11 @@ for number in numbers:
   if number == 777:
     print("777が見つかったので処理を終了します")
     break
-  
+
+
+#lesson2-10
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+for number in numbers:
+  if number % 3 == 0:
+    continue
+  print(number)
